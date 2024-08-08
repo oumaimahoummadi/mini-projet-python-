@@ -1,0 +1,57 @@
+,Pays, Age ,Genre,Dépenses des clients
+0,France,32.0,Female,150.5
+1,Germany,45.0,Male,200.75
+2,Spain,28.0,Female,75.25
+3,Italy,39.0,Male,180.0
+4,United Kingdom,52.0,Female,250.3
+5,France,22.0,Male,90.0
+6,Germany,36.0,Female,175.5
+7,Spain,41.0,Male,120.75
+8,Italy,29.0,Female,95.25
+9,United Kingdom,48.0,Male,220.0
+10,France,35.0,Female,160.25
+11,Germany,27.0,Male,85.5
+12,Spain,50.0,Female,190.75
+13,Italy,33.0,Male,140.0
+14,United Kingdom,44.0,Female,210.5
+15,France,31.0,Male,130.25
+16,Germany,38.0,Female,170.0
+18,Italy,47.0,Female,200.25
+19,United Kingdom,30.0,Male,110.5
+20,France,42.0,,180.75
+21,Germany,29.0,Male,100.25
+22,Spain,55.0,Female,230.0
+23,Italy,36.0,Male,150.75
+24,United Kingdom,25.0,Female,80.5
+25,France,49.0,Male,215.25
+26,Germany,34.0,Female,145.0
+27,Spain,40.0,Male,175.5
+28,Italy,23.0,Female,70.25
+29,United Kingdom,51.0,Male,240.75
+30,France,37.0,Female,165.0
+31,Germany,43.0,Male,195.25
+32,Spain,28.0,Female,85.75
+33,Italy,46.0,Male,205.5
+34,United Kingdom,33.0,Female,135.25
+35,France,30.0,Male,120.0
+36,Germany,52.0,Female,225.75
+37,Spain,35.0,Male,155.5
+38,Italy,27.0,Female,90.25
+39,United Kingdom,48.0,Male,210.0
+40,France,39.0,Female,170.25
+41,Germany,31.0,Male,125.75
+42,Spain,44.0,Female,190.0
+43,Italy,25.0,Male,75.5
+44,United Kingdom,50.0,Female,220.25
+45,France,0.0,Male,160.75
+46,Germany,41.0,Female,185.0
+47,Spain,29.0,Male,105.25
+48,Italy,53.0,Female,235.5
+49,United Kingdom,32.0,Male,140.25
+50,USA,28.0,Female,180.0
+52,Australia,39.0,Female,210.5
+53,Japan,33.0,Male,145.75
+54,Brazil,47.0,Female,195.25
+55,Mars,-100.0,Alien,999999.99
+57,Atlantis,1000.0,Merperson,500.0
+60,Digital Realm,0.0,AI,1010101.01
